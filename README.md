@@ -3,7 +3,7 @@
 One-page portfolio site for Erick Barraza, built for his CSUSB master's in
 cybersecurity application.
 
-Live site: https://ejbarraza.github.io/portfolio-site
+Live site: https://ejbarraza.github.io/site
 
 The page leads with the PdfCraft faux-redaction auditor (merged upstream in
 storytold/pdfcraft#110, hardening in #1892), then the WordCraft audit
